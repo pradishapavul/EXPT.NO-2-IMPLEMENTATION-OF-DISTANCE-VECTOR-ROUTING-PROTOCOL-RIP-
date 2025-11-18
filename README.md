@@ -86,9 +86,10 @@ You can also check connectivity between the PCs on different networks to ensure 
 # OUTPUT
 
 <img width="1050" height="1072" alt="image" src="https://github.com/user-attachments/assets/75168dd1-7eac-4b01-b531-a781338c52c2" />
-![Uploading image.png…]()
+<img width="1039" height="1062" alt="image" src="https://github.com/user-attachments/assets/c75b9778-fe51-4ced-bfc2-70360dd80642" />
+
 
 
 # RESULT:
 
-Thus the computers in multiple networks using Distance Vector Routing <img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
+Thus the computers in multiple networks using Distance Vector Routing is verified.
